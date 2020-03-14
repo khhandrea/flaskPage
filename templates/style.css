@@ -1,0 +1,53 @@
+.greenTitle {
+    color : green;
+    font-size : 18pt;
+    font-weight : bold;
+}
+
+input {
+    color : red;
+}
+
+table {
+    background-color : cyan
+}
+
+.centerAlign {
+    text-align: center;
+}
+
+p {
+    text-shadow: 1px 1px 2px red;
+}
+
+div {
+    color: white;
+    background-image: url("Camera.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-color: red;
+    font-size: 24px;
+    max-width: 1000px;
+    height: 70%;
+
+    border: 5px dotted pink;
+
+    padding: 10px;
+    margin: 0 auto;
+}
+
+p.inh {
+    border: inherit;
+}
+
+.red {
+    font-size: 48pt;
+    color: red;
+    font-style: bold;
+
+}
+
+h1 {
+    text-decoration: none;
+    color: black;
+}
